@@ -1,4 +1,4 @@
-package string.assignment_problems;
+package assignment_problems;
 
 public class MovieReviewWordProfiler {
     public void classifyWordLengths(String review) {
